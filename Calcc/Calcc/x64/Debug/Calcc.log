@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Aleksa\source\repos\Calcc\Calcc\Source.c(39,2): warning C4098: 'main': 'void' function returning a value
+C:\Users\Aleksa\source\repos\Calcc\Calcc\Source.c(40,1): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Calcc.vcxproj -> C:\Users\Aleksa\source\repos\Calcc\x64\Debug\Calcc.exe
