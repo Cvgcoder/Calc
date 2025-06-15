@@ -1,2 +1,3 @@
 # Calc
-(WEARY)Simple calculator
+(VERY)Simple calculator
+so i made it while i was in school it works by first getting the operator and than first and second number so very simple but still my first real block of code...
